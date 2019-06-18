@@ -2,4 +2,6 @@
 First Git Project
 Created the directory
 created new branch
-now committing the changes
+
+Committing the changes
+New Commit Added
